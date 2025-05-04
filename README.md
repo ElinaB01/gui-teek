@@ -1,6 +1,8 @@
 # Kasutajaliidese teek
 Käesolev projekt on kirjutatud Tallinna Polütehnikumi lõputööna. Lähtekoodiga on kaasas kasutatud DLL teegid ja programmi ehitamise skript (build.bat).
 <br><br>
+Kood on kommenteeritud inglise keeles.
+<br><br>
 SDL2: https://www.libsdl.org/
 <br>
 SDL_ttf: https://github.com/libsdl-org/SDL_ttf
